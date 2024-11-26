@@ -1,0 +1,502 @@
+[
+    {
+        "question_text": "Excluding their instructor, how many members of Class VII are there in the game &quot;Legend of Heroes: Trails of Cold Steel&quot;?",
+        "answers": {
+            "a": "6",
+            "b": "10",
+            "c": "3",
+            "d": "9"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "When was the United States National Security Agency established?",
+        "answers": {
+            "a": "July 26, 1908",
+            "b": " July 1, 1973",
+            "c": " November 25, 2002",
+            "d": "November 4, 1952"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Who discovered the Law of Gravity?",
+        "answers": {
+            "a": "Galileo Galilei",
+            "b": "Charles Darwin",
+            "c": "Albert Einstein",
+            "d": "Sir Isaac Newton"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Which city is the capital of the United States of America?",
+        "answers": {
+            "a": "Seattle",
+            "b": "Albany",
+            "c": "Los Angeles",
+            "d": "Washington D.C"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "The Sun consists of mostly which two elements?",
+        "answers": {
+            "a": "Hydrogen &amp; Nitrogen",
+            "b": "Carbon &amp; Nitrogen",
+            "c": "Carbon &amp; Helium",
+            "d": "Hydrogen &amp; Helium"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "What UK Train does NOT go over 125MPH?",
+        "answers": {
+            "a": "Class 43",
+            "b": "Javelin",
+            "c": "Pendolino",
+            "d": "Sprinter"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "In bowling, what is the term used for getting three consecutive strikes?",
+        "answers": {
+            "a": "Flamingo",
+            "b": "Birdie",
+            "c": "Eagle",
+            "d": "Turkey"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Which car manufacturer won the 2016 24 Hours of Le Mans?",
+        "answers": {
+            "a": "Toyota",
+            "b": "Audi",
+            "c": "Ferrari",
+            "d": "Porsche"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "After the 1516 Battle of Marj Dabiq, the Ottoman Empire took control of Jerusalem from which sultanate?",
+        "answers": {
+            "a": "Ayyubid",
+            "b": "Ummayyad",
+            "c": "Seljuq",
+            "d": "Mamluk"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Which ocean borders the west coast of the United States?",
+        "answers": {
+            "a": "Atlantic",
+            "b": "Indian",
+            "c": "Arctic",
+            "d": "Pacific"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Which one of these is not a typical European sword design?",
+        "answers": {
+            "a": "Falchion",
+            "b": "Ulfberht",
+            "c": "Flamberge",
+            "d": "Scimitar"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Which city hosted the CS:GO Dreamhack Open 2015?",
+        "answers": {
+            "a": "Cologne",
+            "b": "Atlanta",
+            "c": "London",
+            "d": "Cluj-Napoca"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Which of these Bojack Horseman characters is a human?",
+        "answers": {
+            "a": "Lennie Turtletaub",
+            "b": "Princess Carolyn",
+            "c": "Tom Jumbo-Grumbo",
+            "d": "Todd Chavez"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Which of the following is not a playable race in the MMORPG Guild Wars 2? ",
+        "answers": {
+            "a": "Sylvari",
+            "b": "Charr",
+            "c": "Asura ",
+            "d": "Tengu"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Who is Sonic&#039;s sidekick?",
+        "answers": {
+            "a": "Shadow",
+            "b": "Amy",
+            "c": "Knuckles",
+            "d": "Tails"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "What is the name of New Zealand&#039;s indigenous people?",
+        "answers": {
+            "a": "Vikings",
+            "b": "Polynesians",
+            "c": "Samoans",
+            "d": "Maori"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Which of the following battles is often considered as marking the beginning of the fall of the Western Roman Empire?",
+        "answers": {
+            "a": "Battle of Thessalonica",
+            "b": "Battle of Pollentia",
+            "c": "Battle of Constantinople",
+            "d": "Battle of Adrianople"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Which actor and martial artist starred as Colonel Guile in the 1994 action film adaptation of Street Fighter?",
+        "answers": {
+            "a": "Chuck Norris",
+            "b": "Steven Seagal",
+            "c": "Scott Adkins",
+            "d": "Jean-Claude Van Damme"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "The notion of a &quot;set that contains all sets which do not contain themselves&quot; is a paradoxical idea attributed to which English philospher?",
+        "answers": {
+            "a": "Francis Bacon",
+            "b": "John Locke",
+            "c": "Alfred North Whitehead",
+            "d": "Bertrand Russel"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "What is the second-largest city in Lithuania?",
+        "answers": {
+            "a": "Panev\u0117\u017eys",
+            "b": "Vilnius",
+            "c": "Klaip\u0117da",
+            "d": "Kaunas"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Wendy O. Koopa appeared in the Super Mario DIC Cartoons, but what was she known as?",
+        "answers": {
+            "a": "Sweetie Pie",
+            "b": "Wendy Pie",
+            "c": "Honey Pie",
+            "d": "Kootie Pie"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "In &quot;To Love-Ru: Darkness&quot;, which of the girls attempt making a harem for Rito Yuuki?",
+        "answers": {
+            "a": "Yami (Golden Darkness)",
+            "b": "Haruna Sairenji",
+            "c": "Mea Kurosaki",
+            "d": "Momo Deviluke"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "What geometric shape is generally used for stop signs?",
+        "answers": {
+            "a": "Hexagon",
+            "b": "Circle",
+            "c": "Triangle",
+            "d": "Octagon"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Which of these games was the earliest known first-person shooter with a known time of publication?",
+        "answers": {
+            "a": "Doom",
+            "b": "Wolfenstein",
+            "c": "Quake",
+            "d": "Spasim"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Which of the following Autobot names in Michael Bay&#039;s movies was NOT a name for a Transformer in the original 1980&#039;s cartoon?",
+        "answers": {
+            "a": "Skids",
+            "b": "Sideswipe",
+            "c": "Ratchet",
+            "d": "Mudflap"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "In what year was the last natural case of smallpox documented?",
+        "answers": {
+            "a": "1982",
+            "b": "1980",
+            "c": "1990",
+            "d": "1977"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Which of the following is NOT a passive electrical component?",
+        "answers": {
+            "a": "Resistor",
+            "b": "Capacitor",
+            "c": "Inductor",
+            "d": "Transistor"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "What does a milliner make and sell?",
+        "answers": {
+            "a": "Shoes",
+            "b": "Belts",
+            "c": "Shirts",
+            "d": "Hats"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Which famous book is sub-titled &#039;The Modern Prometheus&#039;?",
+        "answers": {
+            "a": "Dracula",
+            "b": "The Strange Case of Dr. Jekyll and Mr. Hyde ",
+            "c": "The Legend of Sleepy Hollow",
+            "d": "Frankenstein"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "What was the name of the first Robin in the Batman comics?",
+        "answers": {
+            "a": "Bruce Wayne",
+            "b": "Jason Todd",
+            "c": "Tim Drake",
+            "d": "Dick Grayson"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "In &quot;A Certain Magical Index,&quot; what is Accelerator able to control?",
+        "answers": {
+            "a": "Velocity",
+            "b": "Quantums",
+            "c": "Wormholes",
+            "d": "Vectors"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Europa Universalis is a strategy video game based on which French board game?",
+        "answers": {
+            "a": "Europe and the Universe",
+            "b": "Europa!",
+            "c": "Power in Europe",
+            "d": "Europa Universalis"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Which country has the abbreviation &quot;CH&quot;?",
+        "answers": {
+            "a": "China",
+            "b": "Canada",
+            "c": "No Country",
+            "d": "Switzerland"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Which of these bands was a featuring artist in Compton rapper Kendrick Lamar&#039;s 2017 album, &quot;DAMN.&quot;?",
+        "answers": {
+            "a": "Radiohead",
+            "b": "Coldplay",
+            "c": "Bon Jovi",
+            "d": "U2"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "In the anime, &quot;Super Sonico&quot;, what is Super Sonico&#039;s favorite food?",
+        "answers": {
+            "a": "Ice Cream",
+            "b": "Pizza",
+            "c": "Chips",
+            "d": "Macroons"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "What&#039;s the famous line Vaas says in &quot;Far Cry 3&quot;?",
+        "answers": {
+            "a": "Have I failed to entertain you?",
+            "b": "You&#039;re my b*tch!",
+            "c": "Maybe your best course...would be to tread lightly.",
+            "d": "Did I ever tell you the definition of Insanity?"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Who is the main character in the VHS tape included in the board game Nightmare?",
+        "answers": {
+            "a": "The Kryptkeeper",
+            "b": "The Monster",
+            "c": "The Nightmare",
+            "d": "The Gatekeeper"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "What is the last name of the primary female protagonist of Final Fantasy VIII?",
+        "answers": {
+            "a": "Loire",
+            "b": "Almasy",
+            "c": "Trepe",
+            "d": "Heartilly"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Which element has the atomic number of 7?",
+        "answers": {
+            "a": "Oxygen",
+            "b": "Hydrogen",
+            "c": "Neon",
+            "d": "Nitrogen"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Who painted the Mona Lisa?",
+        "answers": {
+            "a": "Pablo Picasso",
+            "b": "Claude Monet",
+            "c": "Vincent van Gogh",
+            "d": "Leonardo da Vinci"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "What is the correct phrase for the Latin saying &quot;Romanes Eunt Domus&quot; in Monty Python&#039;s Life of Brian?",
+        "answers": {
+            "a": "Romans Go Home",
+            "b": "Roxani Ite Domum",
+            "c": "Tomate Ite Domum",
+            "d": "Romani Ite Domum"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "If you play the Super Mario RPG and nap in a rented hotel room, you will wake up next to what familiar looking character?",
+        "answers": {
+            "a": "Wario",
+            "b": "Q*bert",
+            "c": "Solid Snake",
+            "d": "Link"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "What is the nickname of Northampton town&#039;s rugby union club?",
+        "answers": {
+            "a": "Harlequins",
+            "b": "Saracens",
+            "c": "Wasps",
+            "d": "Saints"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "How many bytes are in a single Kibibyte?",
+        "answers": {
+            "a": "2400",
+            "b": "1000",
+            "c": "1240",
+            "d": "1024"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "Which Variable Valve Timing technology is used by BMW?",
+        "answers": {
+            "a": "VVT-iw",
+            "b": "VVEL",
+            "c": "MultiAir",
+            "d": "VANOS"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "In the TV show &quot;Cheers&quot;, Sam Malone was a former relief pitcher for which baseball team?",
+        "answers": {
+            "a": "New York Mets",
+            "b": "Baltimore Orioles",
+            "c": "Milwaukee Brewers",
+            "d": "Boston Red Sox"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "What is the name of the family that the domestic cat is a member of?",
+        "answers": {
+            "a": "Felinae",
+            "b": "Felis",
+            "c": "Cat",
+            "d": "Felidae"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "In vanilla Minecraft, which of the following cannot be made into a block?",
+        "answers": {
+            "a": "Coal",
+            "b": "Wheat",
+            "c": "String",
+            "d": "Charcoal"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "The book &quot;Fahrenheit 451&quot; was written by whom?",
+        "answers": {
+            "a": "R. L. Stine",
+            "b": "Wolfgang Amadeus Mozart",
+            "c": "Stephen King",
+            "d": "Ray Bradbury"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question_text": "What country has a horizontal bicolor red and white flag?",
+        "answers": {
+            "a": "Bahrain",
+            "b": "Malta",
+            "c": "Liechenstein",
+            "d": "Monaco"
+        },
+        "correct_answer": "d"
+    }
+]
